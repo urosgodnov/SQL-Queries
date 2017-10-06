@@ -1,0 +1,5 @@
+BEGIN TRAN
+
+SELECT 'Hello World'
+
+ROLLBACK
